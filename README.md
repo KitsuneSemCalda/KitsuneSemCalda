@@ -1,7 +1,7 @@
 #### Bem vindos ao repositorio de KitsuneSemCalda 👋
 
 - 🔭 Estou atualmente atuando como estudante de Bacharelado de Ciencias da Computação
-- 🌱 Constamente buscando aprender coisas novas, mas atualmente meu foco de estudos é C-plus-plus e Python
+- 🌱 Constamente buscando aprender coisas novas, mas atualmente meu foco de estudos é ShellScript e Python
 - 😄 Meus pronomes são ele/dele
 
 <div align="center">
