@@ -20,5 +20,5 @@
 
 <a href = "mailto:arthuramagalhaes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-augusto-magalh%C3%A3es-55761b220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href = "https://geekandtech.tk"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
