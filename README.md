@@ -12,4 +12,5 @@
 
 <div>
   <a href="https://github.com/KitsuneSemCalda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&theme=chartreuse-dark&show_icons=true">
 </div>
