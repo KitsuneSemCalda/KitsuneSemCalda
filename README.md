@@ -12,6 +12,6 @@
 
 <div>
   <a href="https://github.com/KitsuneSemCalda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&theme=chartreuse-dark&count_private=true&&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&theme=chartreuse-dark"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&theme=chartreuse-dark&count_private=true&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&theme=chartreuse-dark&layout=compact&hide_progress=true&langs_count=8"
 </div>
