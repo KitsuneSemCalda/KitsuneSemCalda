@@ -7,3 +7,9 @@
 :books: I'm studying computer science in [Ufla](http://ufla.br/) <br>
 :email: Contact me via email at this adress: arthuramagalhaes1312@gmail.com <br>
 :man: My Pronouns is He/She <br> 
+
+#### Repository Stats
+
+<div>
+  <a href="https://github.com/KitsuneSemCalda">
+</div>
