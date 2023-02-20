@@ -23,6 +23,11 @@
   <img align="center" height="30" width="40" alt="Kitsune-Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
   <img align="center" height="30" width="40" alt="Kitsune-Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" height="30" width="40" alt="Kitsune-Elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-Elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
   
+
 
 </div>
