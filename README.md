@@ -48,7 +48,16 @@
 <div style="display: inline_block" <br>
   <h6> My Blog </h6> <br>
   <a href="https://foxtechworld.blogspot.com/" target="_blank"><img alt="Fox in the tech world" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-</div> 
+</div>
+
+<div style="display: inline_block" <br>
+  <h6> My Tools of Day a day </h6> <br>
+  <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank">
+</div>
 
 #### Social Network
 
