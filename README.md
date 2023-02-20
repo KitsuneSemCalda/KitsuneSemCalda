@@ -19,7 +19,7 @@
 #### Tools and Languages Used
 
 <div style="display: inline_block"> <br>
-  <img align="center" alt="Kitsune-AdonisJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
-  <img align="center" alt="Kitsune-Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-AdonisJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
   
 </div>
