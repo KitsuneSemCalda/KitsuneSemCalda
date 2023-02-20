@@ -37,7 +37,7 @@
 </div>
 
 <div style="display: inline_block"> <br>
-  <h5>Operating system used in daily driver or virtual machine</h5> <br>
+  <h6>Operating system used in daily driver or virtual machine</h6> <br>
   <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" target="_blank">
@@ -46,7 +46,7 @@
 </div>
 
 <div style="display: inline_block" <br>
-  <h5> My Blog </h5> <br>
+  <h6> My Blog </h6> <br>
   <a href="https://foxtechworld.blogspot.com/" target="_blank"><img alt="Fox in the tech world" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </div> 
 
