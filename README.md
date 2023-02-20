@@ -21,5 +21,8 @@
 <div style="display: inline_block"> <br>
   <img align="center" height="30" width="40" alt="Kitsune-AdonisJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
   <img align="center" height="30" width="40" alt="Kitsune-Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplys-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-Elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/>
   
+
 </div>
