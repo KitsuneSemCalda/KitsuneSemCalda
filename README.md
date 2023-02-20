@@ -32,6 +32,6 @@
   <img align="center" height="30" width="40" alt="Kitsune-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" height="30" width="40" alt="Kitsune-Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
   <img align="center" height="30" width="40" alt="Kitsune-VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" height="30" width="40" alt="Kitsune-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg"/>
+  <img align="center" height="30" width="40" alt="Kitsune-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="30" width="40" alt="Kitsune-Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>
 </div>
