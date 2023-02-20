@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank">
 </div>
 
-#### Social Network
+###### Social Network
 
 <div style="display: inline_block"> <br>
   <a href="https://discord.gg/X3eaQk3bJN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
