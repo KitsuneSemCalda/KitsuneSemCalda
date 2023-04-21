@@ -15,6 +15,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&theme=chartreuse-dark&langs_count=32&layout=compact"
 </div>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=KitsuneSemCalda&theme=chartreuse-dark&layout=compact)
+
+</td>
+
+</tr>
+</table>
+
 #### Tools and Languages Used
 
 <div style="display: inline_block"> <br>
