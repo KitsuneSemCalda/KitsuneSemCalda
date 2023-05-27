@@ -53,7 +53,7 @@
 
 <div style="display: inline_block" <br>
   <h6> My Blog </h6> <br>
-  <a href="https://foxtechworld.blogspot.com/" target="_blank"><img alt="Fox in the tech world" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+  <a href="https://foxtechworld.github.io/" target="_blank"><img alt="Fox in the tech world" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </div>
 
 <div style="display: inline_block" <br>
