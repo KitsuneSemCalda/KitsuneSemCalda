@@ -2,11 +2,16 @@
 
 ### Personal Info
 
-:slightly_smiling_face: My name is Arthur Augusto <br>
-:sunglasses: My internet nickname is Kitsune <br>
-:man: My Pronouns is He/Him <br>
-:email: Contact me via email adress: arthuramagalhaes1312@gmail.com <br>
+:slightly_smiling_face: My name is Arthur Augusto<br>
+
+:sunglasses: My internet nickname is Kitsune<br>
+
+:man: My Pronouns is He/Him<br>
+
+:email: Contact me via email adress: arthuramagalhaes1312@gmail.com<br>
+
 :computer: I'm have account in [codeberg](https://codeberg.org/KitsuneSemCalda) too<br>
+
 :computer: Do you can read my [blog](http://foxtechworld.github.io/)
 
 ### Repository Stats
