@@ -1,6 +1,6 @@
-## Hello Everynyan
+# Hello Everynyan
 
-### Personal Info
+## Personal Info
 
 :slightly_smiling_face: My name is Arthur Augusto<br>
 
