@@ -10,9 +10,9 @@
 
 :email: Contact me via email adress: arthuramagalhaes1312@gmail.com<br>
 
-:computer: I'm have account in [codeberg](https://codeberg.org/KitsuneSemCalda) too<br>
+:computer: I have account an [codeberg](https://codeberg.org/KitsuneSemCalda) too<br>
 
-:computer: Do you can read my [blog](http://foxtechworld.github.io/)
+:computer: Can read my [blog](http://foxtechworld.github.io/)
 
 ### Repository Stats
 
