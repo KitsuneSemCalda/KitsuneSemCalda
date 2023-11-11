@@ -12,7 +12,7 @@
 
 :computer: I have account an [codeberg](https://codeberg.org/KitsuneSemCalda) too<br>
 
-:computer: Can read my [blog](http://foxtechworld.github.io/)
+:computer: Can you read my [blog](http://foxtechworld.github.io/)
 
 ### Repository Stats
 
