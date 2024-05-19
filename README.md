@@ -49,11 +49,11 @@ I'm a backend developer studying to become a fullstack developer. Do you can als
 
 - I don't participate in Operating Systems discussion and can use them all for all of my needs
 
-- I neither don't participate in language discussion, I know that the best language is one that solves your problem
+- I neither participate in language discussion, I know that the best language is the one that solves your problem
 
 - I've contributed in some projects, such as:
 
   - [GoAnime](https://github.com/alvarorichard/GoAnime)
   - [FreeBSD Desktop](https://github.com/mbnunes/freebsd_desktop)
 
-- Actually I use Windows + WSL to development. Do you can [see my dotfiles here](https://github.com/KitsuneSemCalda/dotfiles)
+- Actually I use Windows + WSL to develop. You can [see my dotfiles here](https://github.com/KitsuneSemCalda/dotfiles)
