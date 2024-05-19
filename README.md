@@ -37,7 +37,7 @@ I'm a backend developer studying to became a fullstack developer. Do you can see
 
 ## Some information about me
 
-- I have a blog using the combination of [Github Pages](https://pages.github.com/) with [Hugo](https://gohugo.io/)
+- I have a [blog](https://foxtechworld.github.io) using the combination of [Github Pages](https://pages.github.com/) with [Hugo](https://gohugo.io/)
 
 - I am owner of my own discord server called "Geeks and Tech"
 
