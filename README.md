@@ -7,10 +7,10 @@ I'm a backend developer studying to became a fullstack developer. Do you can see
 # My Stats in Github
 
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=300 src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark"/>
+    <img height=250 src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&layout=donut&langs_count=32&show_icons=true&theme=chartreuse-dark"/>
+    <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&layout=donut&langs_count=32&show_icons=true&theme=chartreuse-dark"/>
 </a>
 
 ---
