@@ -1,6 +1,6 @@
 # Hello! I'm KitsuneSemCalda 🦊
 
-I'm a backend developer studying to became a fullstack developer. Do you can see me contributing in must project's too
+I'm a backend developer studying to become a fullstack developer. Do you can also see me contributing in many projects too
 
 ---
 
@@ -39,21 +39,21 @@ I'm a backend developer studying to became a fullstack developer. Do you can see
 
 - I have a [blog](https://foxtechworld.github.io) using the combination of [Github Pages](https://pages.github.com/) with [Hugo](https://gohugo.io/)
 
-- I am owner of my own discord server called "Geeks and Tech"
+- I'm the owner of my own discord server called "[Geeks and Tech](https://discord.gg/WTMr49Nfp5)"
 
-- Know much languages not deep but i can resolve some troubles with them
+- I don't know many languages that deep, but I can still solve some problems
 
 - My primary language is [Go](<https://pt.wikipedia.org/wiki/Go_(linguagem_de_programa%C3%A7%C3%A3o)>)
 
-- Now, i'm learning [Typescript](https://pt.wikipedia.org/wiki/TypeScript)
+- Now, I'm learning [Typescript](https://pt.wikipedia.org/wiki/TypeScript)
 
-- I don't participe in Operating System discussion and can use all from my needs
+- I don't participate in Operating Systems discussion and can use them all for all of my needs
 
-- Neither don't participe in Language discussion, I know has the best language por each trouble and programming is the best when you solve your trouble
+- I neither don't participate in language discussion, I know that the best language is one that solves your problem
 
-- I contribute in some projects like:
+- I've contributed in some projects, such as:
 
   - [GoAnime](https://github.com/alvarorichard/GoAnime)
   - [FreeBSD Desktop](https://github.com/mbnunes/freebsd_desktop)
 
-- Actually i use Windows + WSL to development
+- Actually I use Windows + WSL to development. Do you can [see my dotfiles here](https://github.com/KitsuneSemCalda/dotfiles)
