@@ -53,6 +53,7 @@ I'm a backend developer studying to become a fullstack developer. Do you can als
 
 - I've contributed in some projects, such as:
 
+  - [Barium](https://github.com/VitorCarvalho67/Barium)
   - [GoAnime](https://github.com/alvarorichard/GoAnime)
   - [FreeBSD Desktop](https://github.com/mbnunes/freebsd_desktop)
 
