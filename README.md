@@ -37,7 +37,7 @@ I'm a backend developer studying to become a fullstack developer. Do you can als
 
 ## Some information about me
 
-- I have a [blog](https://fox-tech-world.vercel) built by myself using **AstroJS**
+- I have a [blog](https://fox-tech-world.vercel.app) built by myself using **AstroJS**
 
 - I'm the owner of my own discord server called "[Geeks and Tech](https://discord.gg/WTMr49Nfp5)"
 
