@@ -17,7 +17,7 @@ I'm a backend developer studying to become a fullstack developer. Do you can als
 
 ### Contact
 
-[![Blog](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://foxtechworld.github.io/posts/index.xml)
+[![Blog](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://fox-tech-world.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uRMD4FCKzt)
 
 ---
