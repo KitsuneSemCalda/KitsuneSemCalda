@@ -54,10 +54,12 @@ describe("KitsuneSemCalda", {
 
 ### 🛠 Projects
 
+<!-- PROJECTS:START -->
 | Project | Lang | Description |
 |---|---|---|
 | [**Cest**](https://github.com/KitsuneSemCalda/Cest) | C/C++ | Header-only unit testing framework — like Jest for C |
 | [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | CLI to bulk-delete GitHub repos using Bayes + prompt-ui |
+<!-- PROJECTS:END -->
 
 ---
 

@@ -1,0 +1,79 @@
+name: Update pinned projects in README
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch pinned repos via GraphQL
+        id: pinned
+        run: |
+          result=$(gh api graphql -f query='
+            query {
+              user(login: "KitsuneSemCalda") {
+                pinnedItems(first: 6, types: REPOSITORY) {
+                  nodes {
+                    ... on Repository {
+                      name
+                      description
+                      primaryLanguage { name }
+                      stargazerCount
+                      url
+                    }
+                  }
+                }
+              }
+            }
+          ')
+          echo "data=$result" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Generate table and update README
+        env:
+          PINNED_DATA: ${{ steps.pinned.outputs.data }}
+        run: |
+          rows=""
+          while IFS= read -r node; do
+            name=$(echo "$node" | jq -r '.name')
+            desc=$(echo "$node" | jq -r '.description // "—"')
+            lang=$(echo "$node" | jq -r '.primaryLanguage.name // "—"')
+            url=$(echo "$node" | jq -r '.url')
+            rows+="| [**$name**]($url) | $lang | $desc |\n"
+          done < <(echo "$PINNED_DATA" | jq -c '.data.user.pinnedItems.nodes[]')
+
+          rows="${rows:-| — | — | No pinned repositories |\n}"
+          table="| Project | Lang | Description |\n|---|---|---|\n${rows}"
+
+          awk -v table="$table" '
+            /<!-- PROJECTS:START -->/ {
+              print
+              gsub(/\\n/, "\n", table)
+              printf "%s", table
+              in_block = 1
+              next
+            }
+            /<!-- PROJECTS:END -->/ {
+              in_block = 0
+              print
+              next
+            }
+            !in_block
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: auto-update pinned projects [skip ci]"
+            git push
+          fi
