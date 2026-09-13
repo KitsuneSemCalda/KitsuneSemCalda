@@ -8,12 +8,19 @@ import (
     "tooling"
 )
 
+type Kitsune struct {
+    Name   string
+    Alias  string
+    Focus  []string
+    Mantra string
+}
+
 func main() {
-    me := Developer{
-        Name:     "Arthur Augusto",
-        Alias:    "KitsuneSemCalda",
-        Focus:    []string{"Kernels", "Linux Internals", "Experimental Tooling"},
-        Mantra:   "where curiosity drives the code",
+    me := Kitsune{
+        Name:   "Arthur Augusto",
+        Alias:  "KitsuneSemCalda",
+        Focus:  []string{"Kernels", "Linux Internals", "Experimental Tooling"},
+        Mantra: "lost the tail, kept the curiosity",
     }
 
     fmt.Println(me.Introduce())
@@ -25,7 +32,7 @@ func main() {
 
 describe("KitsuneSemCalda", {
 
-    it("builds low-level tooling", {
+    it("lost its tail, kept its curiosity", {
         expect(Cest).toBeA("header-only C testing framework");
         expect(ghCleaner).toBeA("Go CLI for GitHub cleanup");
     });
@@ -40,26 +47,30 @@ describe("KitsuneSemCalda", {
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&text_color=a89984&icon_color=d79921&title_color=fe8019">
-    <img src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&text_color=a89984&icon_color=d79921&title_color=fe8019" width="410">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&text_color=a89984&title_color=fe8019">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&text_color=a89984&title_color=fe8019" width="330">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&show_icons=true&hide_border=true&bg_color=00000000&text_color=c3d6dd&icon_color=4f8dff&title_color=3ee8ff" width="410">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&layout=compact&hide_border=true&bg_color=00000000&text_color=c3d6dd&title_color=3ee8ff" width="330">
 </div>
 
 ---
 
-### 🛠 Projects
+### ⭐ Most Starred
 
-<!-- PROJECTS:START -->
+<!-- TOP_STARS:START -->
 | Project | Lang | Description |
 |---|---|---|
-| [**Cest**](https://github.com/KitsuneSemCalda/Cest) | C/C++ | Header-only unit testing framework — like Jest for C |
+| [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Makefile | Header-only unit testing framework — like Jest for C |
 | [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | CLI to bulk-delete GitHub repos using Bayes + prompt-ui |
-<!-- PROJECTS:END -->
+| [**Sword-Art-Omarchy**](https://github.com/KitsuneSemCalda/Sword-Art-Omarchy) | Shell | An Omarchy theme highly inspired by Sword Art Online |
+<!-- TOP_STARS:END -->
+
+### 🤝 Contributions Elsewhere
+
+<!-- CONTRIBUTIONS:START -->
+| Project | PRs | Stars |
+|---|---|---|
+| [**KitsuneBSD/FKernel**](https://github.com/KitsuneBSD/FKernel) | 10 | 20 |
+| [**Game-World-Developers/the-seed**](https://github.com/Game-World-Developers/the-seed) | 1 | 2 |
+<!-- CONTRIBUTIONS:END -->
 
 ---
 
