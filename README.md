@@ -58,9 +58,11 @@ describe("KitsuneSemCalda", {
 <!-- TOP_STARS:START -->
 | Project | Lang | Description |
 |---|---|---|
-| [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Makefile | Header-only unit testing framework — like Jest for C |
-| [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | CLI to bulk-delete GitHub repos using Bayes + prompt-ui |
-| [**Sword-Art-Omarchy**](https://github.com/KitsuneSemCalda/Sword-Art-Omarchy) | Shell | An Omarchy theme highly inspired by Sword Art Online |
+| [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Makefile | A C-based test unit engine like javascript testing tool Jest / golang testing tool Gest |
+| [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | A small command line interface to clean github using .netrc, bayes theorem and prompt-ui |
+| [**Sword-Art-Omarchy**](https://github.com/KitsuneSemCalda/Sword-Art-Omarchy) | Shell | A Omarchy Theme highly inspired on Sword Art Online |
+| [**Radic**](https://github.com/KitsuneSemCalda/Radic) | — | A stupidly simple compiled language without implicit optimizations. |
+| [**Feader-RSS**](https://github.com/KitsuneSemCalda/Feader-RSS) | Go | A Omarchy plugin to read RSS offline |
 <!-- TOP_STARS:END -->
 
 ### 🤝 Contributions Elsewhere
