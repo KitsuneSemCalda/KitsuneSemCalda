@@ -60,9 +60,9 @@ describe("KitsuneSemCalda", {
 |---|---|---|
 | [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Makefile | A C-based test unit engine like javascript testing tool Jest / golang testing tool Gest |
 | [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | A small command line interface to clean github using .netrc, bayes theorem and prompt-ui |
-| [**Sword-Art-Omarchy**](https://github.com/KitsuneSemCalda/Sword-Art-Omarchy) | Shell | A Omarchy Theme highly inspired on Sword Art Online |
-| [**Feader-RSS**](https://github.com/KitsuneSemCalda/Feader-RSS) | Go | A Omarchy plugin to read RSS offline |
-| [**Radic**](https://github.com/KitsuneSemCalda/Radic) | — | A stupidly simple compiled language without implicit optimizations. |
+| [**omarchy-sword-art-theme**](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme) | Python | An Omarchy theme inspired by Season 1 of Sword Art Online — carbon-black Aincrad system windows with a cyan 'Link Start' glow |
+| [**iae**](https://github.com/KitsuneSemCalda/iae) | Shell | Tmux-based agentic-dev TUI for Omarchy Linux — editor, agent, shell, and git/logs panes in one script |
+| [**Feader-RSS**](https://github.com/KitsuneSemCalda/Feader-RSS) | Go | An Omarchy plugin to read RSS offline, with local caching, full-text search, and OPML support. |
 <!-- TOP_STARS:END -->
 
 ### 🤝 Contributions Elsewhere
@@ -70,8 +70,8 @@ describe("KitsuneSemCalda", {
 <!-- CONTRIBUTIONS:START -->
 | Project | PRs | Stars |
 |---|---|---|
-| [**KitsuneBSD/FKernel**](https://github.com/KitsuneBSD/FKernel) | 10 | 20 |
-| [**Game-World-Developers/the-seed**](https://github.com/Game-World-Developers/the-seed) | 1 | 2 |
+| [**omacom/omarchy-site**](https://github.com/omacom/omarchy-site) | 1 | 116 |
+| [**Wheel-Smith/awesome-omarchy**](https://github.com/Wheel-Smith/awesome-omarchy) | 1 | 128 |
 <!-- CONTRIBUTIONS:END -->
 
 ---
