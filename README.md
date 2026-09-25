@@ -93,14 +93,17 @@ describe("KitsuneSemCalda", {
 
 </details>
 
-### 🤝 Contributions Elsewhere
+### 🤝 Selected merged contributions
 
-<!-- CONTRIBUTIONS:START -->
-| Project | PRs | Stars |
+A selection of my pull requests merged into other repositories.
+
+| Project | Contribution | Merged PR |
 |---|---|---|
-| [**omacom/omarchy-site**](https://github.com/omacom/omarchy-site) | 1 | 122 |
-| [**Wheel-Smith/awesome-omarchy**](https://github.com/Wheel-Smith/awesome-omarchy) | 1 | 128 |
-<!-- CONTRIBUTIONS:END -->
+| [Akita's blog](https://github.com/akitaonrails/akitaonrails.github.io) | YouTube shortcode. | [#3](https://github.com/akitaonrails/akitaonrails.github.io/pull/3) |
+| [GoAnime](https://github.com/alvarorichard/GoAnime) | Anime sorting for fuzzy search. | [#46](https://github.com/alvarorichard/GoAnime/pull/46) |
+| [arrays](https://github.com/w1tchCrafter/arrays) | `forEach` behavior aligned with the MDN documentation. | [#8](https://github.com/w1tchCrafter/arrays/pull/8) |
+| [freebsd_desktop](https://github.com/mbnunes/freebsd_desktop) | WindowMaker applications. | [#4](https://github.com/mbnunes/freebsd_desktop/pull/4) |
+| [Barium](https://github.com/VitorCarvalho67/Barium) | Camera-based mouse control with OpenCV. | [#24](https://github.com/VitorCarvalho67/Barium/pull/24) |
 
 ---
 

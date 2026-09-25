@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch stars and external contributions via GraphQL
+      - name: Fetch repository stars via GraphQL
         id: data
         run: |
           result=$(gh api graphql -f query='
@@ -30,18 +30,6 @@ jobs:
                     url
                   }
                 }
-                contributionsCollection {
-                  pullRequestContributionsByRepository(maxRepositories: 25) {
-                    repository {
-                      name
-                      nameWithOwner
-                      stargazerCount
-                      url
-                      owner { login }
-                    }
-                    contributions { totalCount }
-                  }
-                }
               }
             }
           ')
@@ -49,7 +37,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
 
-      - name: Generate tables and update README
+      - name: Generate stars table and update README
         env:
           GH_DATA: ${{ steps.data.outputs.data }}
         run: |
@@ -66,19 +54,6 @@ jobs:
           stars_rows="${stars_rows:-| — | — | No starred repositories yet |\n}"
           stars_table="| Project | Lang | Description |\n|---|---|---|\n${stars_rows}"
 
-          # External contributions (repos not owned by KitsuneSemCalda), ranked by PR count
-          contrib_rows=""
-          while IFS= read -r node; do
-            name=$(echo "$node" | jq -r '.repository.nameWithOwner')
-            url=$(echo "$node" | jq -r '.repository.url')
-            stars=$(echo "$node" | jq -r '.repository.stargazerCount')
-            prs=$(echo "$node" | jq -r '.contributions.totalCount')
-            contrib_rows+="| [**$name**]($url) | $prs | $stars |\n"
-          done < <(echo "$GH_DATA" | jq -c '.data.user.contributionsCollection.pullRequestContributionsByRepository[] | select(.repository.owner.login != "KitsuneSemCalda")' | jq -cs 'sort_by(-.contributions.totalCount)[]' | head -n 5)
-
-          contrib_rows="${contrib_rows:-| — | — | No external contributions yet |\n}"
-          contrib_table="| Project | PRs | Stars |\n|---|---|---|\n${contrib_rows}"
-
           awk -v table="$stars_table" '
             /<!-- TOP_STARS:START -->/ {
               print
@@ -91,24 +66,12 @@ jobs:
             !in_block
           ' README.md > README.tmp && mv README.tmp README.md
 
-          awk -v table="$contrib_table" '
-            /<!-- CONTRIBUTIONS:START -->/ {
-              print
-              gsub(/\\n/, "\n", table)
-              printf "%s", table
-              in_block = 1
-              next
-            }
-            /<!-- CONTRIBUTIONS:END -->/ { in_block = 0; print; next }
-            !in_block
-          ' README.md > README.tmp && mv README.tmp README.md
-
       - name: Commit if changed
         run: |
           if ! git diff --quiet README.md; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "chore: auto-update stats and contributions [skip ci]"
+            git commit -m "chore: auto-update stats [skip ci]"
             git push
           fi
