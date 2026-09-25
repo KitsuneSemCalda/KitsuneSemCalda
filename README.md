@@ -1,3 +1,26 @@
+# Arthur Augusto · KitsuneSemCalda
+
+I build tools for Linux and software development, from keyboard hardware support to desktop applications and testing libraries. My interests include systems programming, Linux internals, and experimental tooling.
+
+*Lost the tail, kept the curiosity.*
+
+## Selected projects
+
+| Project | What I built | Explore |
+|---|---|---|
+| [Dareu EK75 + OpenRGB](https://github.com/KitsuneSemCalda/Dareu-EK75-OpenRGB-Compat) | Keyboard lighting support over USB and a wireless receiver, with protocol research and tests that run without the hardware. | [Protocol notes](https://github.com/KitsuneSemCalda/Dareu-EK75-OpenRGB-Compat/blob/master/docs/RESEARCH.md) |
+| [Feader RSS](https://github.com/KitsuneSemCalda/Feader-RSS) | An RSS reader for Omarchy with a Go backend, SQLite storage, full-text search, and backup/restore. | [Screenshots and installation](https://github.com/KitsuneSemCalda/Feader-RSS#readme) |
+| [Cest](https://github.com/KitsuneSemCalda/Cest) | A header-only testing framework for C and related languages, also used by the Dareu controller tests. | [Quick start](https://github.com/KitsuneSemCalda/Cest#quick-start) |
+
+## Around my desktop
+
+- [iae](https://github.com/KitsuneSemCalda/iae): editor, coding agent, shell, and git in a tmux workspace that adapts to terminal size.
+- [Sword Art Omarchy](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme): an Omarchy theme inspired by Aincrad, with screenshots and installation instructions.
+- [Dotfiles](https://github.com/KitsuneSemCalda/Dotfiles): my Linux and Windows setup, tested installers, and a library of coding-agent skills.
+
+<details>
+<summary>A little about me, in code</summary>
+
 ```golang
 package main
 
@@ -44,11 +67,14 @@ describe("KitsuneSemCalda", {
 });
 ```
 
----
+</details>
+
+<details>
+<summary>GitHub statistics</summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&show_icons=true&hide_border=true&bg_color=00000000&text_color=c3d6dd&icon_color=4f8dff&title_color=3ee8ff" width="410">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&layout=compact&hide_border=true&bg_color=00000000&text_color=c3d6dd&title_color=3ee8ff" width="330">
+  <img src="https://github-readme-stats.vercel.app/api?username=KitsuneSemCalda&show_icons=true&hide_border=true&bg_color=00000000&text_color=c3d6dd&icon_color=4f8dff&title_color=3ee8ff" width="410" alt="GitHub activity statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneSemCalda&layout=compact&hide_border=true&bg_color=00000000&text_color=c3d6dd&title_color=3ee8ff" width="330" alt="Languages across my GitHub repositories">
 </div>
 
 ---
@@ -58,12 +84,14 @@ describe("KitsuneSemCalda", {
 <!-- TOP_STARS:START -->
 | Project | Lang | Description |
 |---|---|---|
-| [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Makefile | A C-based test unit engine like javascript testing tool Jest / golang testing tool Gest |
-| [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | A small command line interface to clean github using .netrc, bayes theorem and prompt-ui |
+| [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Makefile | Header-only testing framework for C, C++, Objective-C, and Objective-C++, with expressive assertions and test hooks. |
+| [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | Interactive Go CLI to review and delete GitHub repositories, with dry-run mode and Bayesian ranking from local decisions. |
 | [**omarchy-sword-art-theme**](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme) | Python | An Omarchy theme inspired by Season 1 of Sword Art Online — carbon-black Aincrad system windows with a cyan 'Link Start' glow |
 | [**iae**](https://github.com/KitsuneSemCalda/iae) | Shell | Tmux-based agentic-dev TUI for Omarchy Linux — editor, agent, shell, and git/logs panes in one script |
 | [**Feader-RSS**](https://github.com/KitsuneSemCalda/Feader-RSS) | Go | An Omarchy plugin to read RSS offline, with local caching, full-text search, and OPML support. |
 <!-- TOP_STARS:END -->
+
+</details>
 
 ### 🤝 Contributions Elsewhere
 
