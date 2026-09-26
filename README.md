@@ -85,7 +85,7 @@ describe("KitsuneSemCalda", {
 | Project | Lang | Description |
 |---|---|---|
 | [**omarchy-sword-art-theme**](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme) | Python | An Omarchy theme inspired by Season 1 of Sword Art Online — carbon-black Aincrad system windows with a cyan 'Link Start' glow |
-| [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Makefile | Header-only testing framework for C, C++, Objective-C, and Objective-C++, with expressive assertions and test hooks. |
+| [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Objective-C | Header-only testing framework for C, C++, Objective-C, and Objective-C++, with expressive assertions and test hooks. |
 | [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | Interactive Go CLI to review and delete GitHub repositories, with dry-run mode and Bayesian ranking from local decisions. |
 | [**iae**](https://github.com/KitsuneSemCalda/iae) | Shell | Tmux-based agentic-dev TUI for Omarchy Linux — editor, agent, shell, and git/logs panes in one script |
 | [**Feader-RSS**](https://github.com/KitsuneSemCalda/Feader-RSS) | Go | An Omarchy plugin to read RSS offline, with local caching, full-text search, and OPML support. |
