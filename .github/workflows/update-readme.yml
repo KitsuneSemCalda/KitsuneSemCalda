@@ -33,7 +33,11 @@ jobs:
               }
             }
           ')
-          echo "data=$result" >> "$GITHUB_OUTPUT"
+          {
+            echo "data<<EOF"
+            echo "$result"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
         env:
           GH_TOKEN: ${{ github.token }}
 
