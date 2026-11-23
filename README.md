@@ -108,7 +108,7 @@ A selection of my pull requests merged into other repositories.
 ---
 
 <div align="center">
-  <a href="https://worldoftaillessfox"><code>World of Tailless Fox</code></a>
+  <a href="https://worldoftaillessfox.com"><code>World of Tailless Fox</code></a>
   <span>&nbsp;·&nbsp;</span>
   <a href="https://discord.gg/WTMr49Nfp5"><code>discord</code></a>
   <span>&nbsp;·&nbsp;</span>
