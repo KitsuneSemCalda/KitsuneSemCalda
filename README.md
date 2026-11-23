@@ -86,9 +86,9 @@ describe("KitsuneSemCalda", {
 |---|---|---|
 | [**Cest**](https://github.com/KitsuneSemCalda/Cest) | Objective-C | Header-only testing framework for C, C++, Objective-C, and Objective-C++, with expressive assertions and test hooks. |
 | [**gh-cleaner**](https://github.com/KitsuneSemCalda/gh-cleaner) | Go | Interactive Go CLI to review and delete GitHub repositories, with dry-run mode and Bayesian ranking from local decisions. |
-| [**iae**](https://github.com/KitsuneSemCalda/iae) | Shell | Tmux-based agentic-dev TUI for Omarchy Linux — editor, agent, shell, and git/logs panes in one script |
 | [**Dotfiles**](https://github.com/KitsuneSemCalda/Dotfiles) | Python | Personal dotfiles for Omarchy (Hyprland) and Windows 11, plus a library of AI coding-agent skills. Copy-based, idempotent installers with CI. |
-| [**myLedger**](https://github.com/KitsuneSemCalda/myLedger) | — | A frontend to hledger using shellscript and gum |
+| [**GoDB**](https://github.com/KitsuneSemCalda/GoDB) | — | — |
+| [**Dareu-EK75-OpenRGB-Compat**](https://github.com/KitsuneSemCalda/Dareu-EK75-OpenRGB-Compat) | C++ | OpenRGB support for the Dareu EK75 keyboard over USB and its 2.4 GHz receiver, with protocol notes and hardware-free tests. |
 <!-- TOP_STARS:END -->
 
 </details>
